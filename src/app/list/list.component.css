@@ -1,0 +1,26 @@
+.list {
+    background: #e2e4e6;
+    width: 258px;
+    padding: 6px;
+    margin: 5px;
+    display: inline-block;
+ 
+}
+.list__title {
+    margin: 0;
+    padding: 16px 0;
+}
+.list a {
+    width: 100%;
+    display: block;
+    text-decoration: none;
+}
+ 
+input{
+  width: 248px;
+  padding: 5px;
+  border: 2px solid orange;
+  outline: 0;
+  background: #fff;
+  box-shadow:none;
+}
