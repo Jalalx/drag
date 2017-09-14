@@ -1,6 +1,6 @@
 # Drag
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
+An Angular 4 drag and drop kanban board. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
 
 ## Development server
 
